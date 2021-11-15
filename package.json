@@ -15,7 +15,6 @@
   "license": "ISC",
   "devDependencies": {
     "chai": "^4.2.0",
-    "eslint-config-google": "^0.14.0",
     "jsdom": "^15.1.1",
     "mocha": "^6.2.0",
     "nodemon": "^1.19.2",
